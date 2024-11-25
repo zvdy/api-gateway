@@ -1,5 +1,7 @@
 # GoGateway API
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/zvdy/api-gateway)](https://goreportcard.com/report/github.com/zvdy/api-gateway)
+
 # Index
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
